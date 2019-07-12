@@ -1,0 +1,7 @@
+lightgbm
+sklearn
+numpy
+pandas
+emoji
+vaderSentiment
+scipy
